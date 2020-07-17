@@ -1,11 +1,17 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Hi"
-    }
-  ],
-  "profile": {
-    "name": "aman"
-  }
+"friends": [
+{
+"title": "Best Friends",
+"friends": [
+"suresh"
+]
+},
+{
+"title": "Best Friends",
+"friends": [
+"Sharath",
+"Ashish"
+]
+}
+]
 }
